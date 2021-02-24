@@ -12,7 +12,8 @@ namespace ConsoleApplication1
 
         public bool judge(int n, int[] arr)
         {
-            
+            //todo
+            return false;
         }
     }
 }
