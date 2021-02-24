@@ -1,0 +1,6 @@
+D:\GitRepository\C#Repository\MyC-Study\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\GitRepository\C#Repository\MyC-Study\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\GitRepository\C#Repository\MyC-Study\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+D:\GitRepository\C#Repository\MyC-Study\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\GitRepository\C#Repository\MyC-Study\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\GitRepository\C#Repository\MyC-Study\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
